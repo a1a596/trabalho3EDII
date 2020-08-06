@@ -1,0 +1,17 @@
+Estrutura de Dados II
+Alunos: Giovani Barbosa dos Santos Filho, Pedro Henrique Portes
+Atividade 3: Busca sequencial e binária sobre arquivos
+
+Como usar:
+
+Logo após a execução do programa, um Menu será exibido. Nele você possui algumas opções como inserir, remover, listar entre outras.
+Neste programa também é possível fazer a utilização de leitura e gravação de arquivos.
+A cada vez que você escolhe uma opção, após o fim da execução da opção, o programa retorna ao menu. Isso será feito até que você escolha a opção de sair do programa.
+
+Possíveis problemas:
+
+Não tem pesquisa binária nem sequencial.
+A pesquisa que eu tentei fazer não está funcionando.
+Modificar o local do arquivo do programa pode resultar em problemas na hora de ler ou gravar do arquivo.
+Para a utilização do sistema em questão se faz necessario a instalação do netbeans.
+
